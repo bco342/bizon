@@ -23,3 +23,4 @@ public function get_api_path(array $array, string $template) : string
 ```
 
 Но мне больше нравится вариант с foreach(), как самый человекочитаемый )
+https://github.com/bco342/bizon/blob/29bc4cb34012087b59018aa690874a3a6300ad58/test.php#L44-L50
